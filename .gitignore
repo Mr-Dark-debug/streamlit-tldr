@@ -1,0 +1,8 @@
+__pycache__/
+*/__pycache__/
+**/__pycache__/
+node_modules/
+streamlit_tldraw.egg-info/
+venv/
+*/venv/
+**/venv/
