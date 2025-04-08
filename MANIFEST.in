@@ -1,3 +1,4 @@
 include README.md
 include LICENSE
-recursive-include streamlit-tldraw/frontend/build *
+recursive-include streamlit_tldraw *.py
+recursive-include streamlit_tldraw/frontend/build *
